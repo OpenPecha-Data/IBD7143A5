@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24357
   title: བོད་ཤོག་བཟོ་རྩལ་མྱུར་སྐྱོབ་དང་འཕེལ་རྒྱས་སྐོར།
-  volume: ''
+  volume:
+    17f702df70854c66a078a790d0e5aa61:
+      image_group_id: I1KG24457
+      title: Volume 1 of
+      volume_number: 1
+      total_pages: 232
   author: ''
+ebook_metadata:
+  title: བོད་ཤོག་བཟོ་རྩལ་མྱུར་སྐྱོབ་དང་འཕེལ་རྒྱས་སྐོར།
+  author: ''
+  sku: P000373
+  cover: cover.jpg
+  layers:
+  - pagination
